@@ -20,7 +20,6 @@ function App() {
           <li><strong>React Native:</strong> Construye aplicaciones móviles usando JavaScript y React, y compílalas para Android e iOS.</li>
           <li><strong>Flutter:</strong> Desarrolla aplicaciones nativas para Android e iOS con una sola base de código usando Dart.</li>
           <li><strong>Swift:</strong> El lenguaje de programación utilizado para desarrollar aplicaciones nativas en iOS.</li>
-          <li><strong>Kotlin:</strong> El lenguaje recomendado para aplicaciones nativas en Android.</li>
         </ul>
 
       </header>
